@@ -1,6 +1,8 @@
-# Capstone
 
-Political Profiling using Feature Engineering and NLP
+
+## Political Profiling using Feature Engineering and NLP
+
+###                                                  A Capstone Project
 
 By 		: Chiranjeevi Mallavarapu, Ramya Mandava, Sabitri KC
 Advisor : Ginger Holt , Facebook
