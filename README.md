@@ -4,8 +4,8 @@
 
 ###                                                  A Capstone Project
 
-By 		: Chiranjeevi Mallavarapu, Ramya Mandava, Sabitri KC
-Advisor : Ginger Holt , Facebook
+#### By 		: Chiranjeevi Mallavarapu, Ramya Mandava, Sabitri KC
+#### Advisor : Ginger Holt , Facebook
 
 
 Public surveys are predominantly used when forecasting election outcomes.
